@@ -1,5 +1,5 @@
 print("welcome to the Pizza shop")
-size = input("enter the size of the pizza!!\n")
+size = input("you\'hv to enter the size of the pizza!!\n").lower()
 #pepperoni = input("do you want pepperoni on the pizza? enter y or n:\n")
 #extra_cheese = input("do you want extra cheese on the pizza? enter y or n:\n")
 bill = 0
